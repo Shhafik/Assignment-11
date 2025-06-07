@@ -1,0 +1,13 @@
+div{
+    margin-bottom: 10px;
+}
+button{
+    background-color: rgb(16, 177, 169);
+    margin-right: 30px;
+    cursor: pointer;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}

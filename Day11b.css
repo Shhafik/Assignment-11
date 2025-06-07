@@ -1,0 +1,14 @@
+button{
+    background-color: rgb(16, 177, 169);
+    margin-top: 15px;
+    cursor: pointer;
+}
+.abc{
+    
+    flex-direction: column;
+}
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
